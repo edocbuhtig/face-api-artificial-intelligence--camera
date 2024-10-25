@@ -1,4 +1,9 @@
-Setup Steps
+# Camera Stream AI/ML Facial Recognition System Starter
+AI Models Driven (Camera Stream Facial recognition system) Starter project using,NODE & Javascript Face API Library
+
+## Setup Steps:
+
+
 - git clone
 - npm i
 - important: for local non https you may want to setup (npm install -g mkcert) -> to generate certificates.
